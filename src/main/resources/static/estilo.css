@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: Green;
+	
+}
+h1{
+	font-family: 'Arial',sans-serif;
+	color: white;
+	text-decoration: ;
+}
+
+th{
+	font-family: 'Arial',sans-serif;
+	color: Teal;
+	text-decoration: none;
+}
+
+
+td{
+	font-family: 'Arial',sans-serif;
+	color: gray;
+	text-decoration: none;
+}
+
